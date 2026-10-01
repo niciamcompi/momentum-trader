@@ -1,0 +1,7 @@
+Django>=5.2,<6
+pandas>=2.2
+numpy>=1.26
+massive>=2.8
+alpaca-py>=0.44
+python-dotenv>=1.0
+matplotlib>=3.8
